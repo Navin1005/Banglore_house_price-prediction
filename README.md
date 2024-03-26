@@ -18,11 +18,11 @@ Hyperparameter Tuning: We use gridsearchcv to tune the hyperparameters of our ma
 K-fold Cross-Validation: We implement k-fold cross-validation to assess the generalization performance of our models and ensure they are robust to variations in the training data.
 
 # Technologies and Tools Used
-Python: We use Python as the primary programming language for data analysis, model building, and web development.
-Numpy and Pandas: These libraries are utilized for data manipulation, cleaning, and preprocessing.
-Matplotlib: We use Matplotlib for data visualization, including plotting histograms, scatter plots, and line graphs.
-Scikit-learn (Sklearn): Sklearn is our go-to library for machine learning algorithms and model building.
-Jupyter Notebook, Visual Studio Code, and PyCharm: We use these integrated development environments (IDEs) for coding, experimentation, and collaboration.
-Python Flask: Flask is used to build the HTTP server that serves predictions from our trained model.
-HTML/CSS/JavaScript: These technologies are employed to develop the user interface (UI) for the real estate price prediction website.
+1) Python: We use Python as the primary programming language for data analysis, model building, and web development.
+2) Numpy and Pandas: These libraries are utilized for data manipulation, cleaning, and preprocessing.
+3) Matplotlib: We use Matplotlib for data visualization, including plotting histograms, scatter plots, and line graphs.
+4) Scikit-learn (Sklearn): Sklearn is our go-to library for machine learning algorithms and model building.
+5) Jupyter Notebook, Visual Studio Code, and PyCharm: We use these integrated development environments (IDEs) for coding, experimentation, and collaboration.
+6) Python Flask: Flask is used to build the HTTP server that serves predictions from our trained model.
+7) HTML/CSS/JavaScript: These technologies are employed to develop the user interface (UI) for the real estate price prediction website.
 
